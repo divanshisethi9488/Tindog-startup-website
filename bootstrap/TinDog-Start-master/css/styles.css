@@ -1,0 +1,153 @@
+ #title {
+   background-color: #ff4c68;
+ }
+ h1 {
+  font-family: "Montserrat", sans-serif;
+   font-size: 3rem;
+   line-height: 1.5;
+   color: white;
+
+ }
+
+ .body {
+   font-family: "Montserrat", sans-serif;
+ }
+ .container-fluid {
+   padding: 3% 15% 5.7%;
+ }
+ .navbar-brand {
+   font-size: 2.5rem;
+  font-weight: bold;
+   font-family: 'Ubuntu', sans-serif;
+ }
+ .nav-link {
+   padding: 0 18px;
+   font-size: 1.2rem;
+ }
+ .navbar {
+padding: 0 0 4.5rem;
+ }
+ .downloadbtn {
+   margin: 30px 10px;
+  }
+  .iphone {
+    width: 60%;
+
+    transform: rotate(25deg);
+    margin-left: 50px;
+
+    position: absolute;
+
+  }
+  .iconn {
+    color:#ef8172;
+    margin-bottom: 3px;
+  }
+  .iconn:hover {
+    color: #ff4c68;
+  }
+   #features {
+     margin: auto;
+     text-align: center;
+     padding: 7% 14%;
+     background-color: white;
+     position: relative;
+     z-index: 1;
+
+   }
+   .para {
+  text-align: center;
+color: #888888;
+padding: 5%;
+
+   }
+   .h33
+   {
+     padding-top: 10px;
+     color: black;
+     font-family:  "Montserrat", sans-serif;
+   }
+   h2 {
+     font-family:"Montserrat";
+     font-size: 2rem;
+     line-height: 1.5;
+     width: 75%;
+     text-align: center;
+     margin: auto;
+   }
+   #testimonials {
+
+     text-align: center;
+     background-color: #ef8172;
+     color: white;
+   }
+   .testimonial-image {
+     width: 10%;
+     border-radius: 100%;
+     margin: 20px;
+   }
+   #press {
+     background-color: #ef8172;
+     text-align: center;
+     padding-bottom: 3%;
+
+   }
+   .pressimg {
+     width: 15%;
+     margin: 20px 20px 50px;
+   }
+.carousel-item {
+   padding: 7% 14%;;
+}
+.h22{
+
+
+}
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column {
+  padding: 3% 2%;
+}
+@media (max-width:900px) {
+  body {
+    text-align: center;
+    margin: auto;
+
+  }
+  .iphone {
+    width: 60%;
+    transform: rotate(0deg);
+    position: static;
+  }
+  #features {
+    z-index: 0;
+  }
+}
+#cta {
+  background-color: #ff4c68;
+  margin: auto;
+  padding: 100px;
+  text-align: center;
+  color: white;
+  font-family:  "Montserrat", sans-serif;
+}
+.ctahead {
+  width: 60%;
+  line-height: 2;
+  font-size:2rem;
+  padding: 20px 20px 40px;
+
+  margin: auto;
+  text-align: center;
+}
+#footer {
+  padding: 50px;
+  text-align: center;
+  margin: auto;
+
+}
+.ic {
+  padding: 30px 10px;
+}
